@@ -30,6 +30,7 @@ The idea is to learn Golang the way it is actually used, which is typically to b
 #### Resources
 
 [Gin Web Framework](https://github.com/gin-gonic/gin)
+
 [Golang AWS SDK Docs](https://docs.aws.amazon.com/sdk-for-go/api/aws/)
 
 
@@ -44,11 +45,6 @@ The idea is to learn Golang the way it is actually used, which is typically to b
  7. Add a route to fetch all file names for a particular user.
  8. Add a filter feature that may optionally be applied to uploaded files.
  9. Allow documents to have labels and store them using S3 metadata. 
-
-
-Docs for AWS SDK
-https://docs.aws.amazon.com/sdk-for-go/api/aws/session/
-
 
 ## Resources
  * [Go By Example](https://gobyexample.com/)
