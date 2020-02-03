@@ -18,7 +18,7 @@ The idea is to learn Golang the way it is actually used, which is typically to b
 ### Test It
 
  1. Build the executable: `go build`
- 2. Run the executable: `./golang-learn`
+ 2. Run the executable: `./learn-golang`
  3. Upload a file using your favorite HTTP client. The `upload_file.sh` script in the repo will run a curl command to do this for you.
 
     ```
